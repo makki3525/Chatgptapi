@@ -1,0 +1,12 @@
+{
+  "name": "chatgpt-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
